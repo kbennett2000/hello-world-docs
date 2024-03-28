@@ -1,3 +1,3 @@
 # hello-world-docs
 
-This is the documentation repo for the boring `hello-world` app.
+This is the documentation repo for the `hello-world` app.
